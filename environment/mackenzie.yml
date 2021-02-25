@@ -18,6 +18,8 @@ dependencies:
   - gsw
   - ipykernel
   - ipython
+  - intake
+  - intake-esm
   - jupyter
   - jupyterlab=2
   - jupyterlab-git
