@@ -20,6 +20,7 @@ dependencies:
   - ipython
   - intake
   - intake-esm
+  - intake-xarray
   - jupyter
   - jupyterlab=2
   - jupyterlab-git
